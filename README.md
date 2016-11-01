@@ -1,2 +1,1 @@
-## Fut
-# Exemplo aplicativo android com recyclerView 
+#Fut - Exemplo aplicativo android com recyclerView 
